@@ -1,0 +1,64 @@
+body{
+  border: 20px black;
+}
+.Lesson1{
+  background-color: #00B85C;
+  border: 5px solid black;
+  width: 30%;
+}
+b{
+ color: #006600;
+}
+.Web{
+  background-color: #66CCFF ;
+  border: 5px solid black;
+  padding:10px
+}
+.HTML{
+  background-color: #66CCFF ;
+  border: 5px solid black;
+  padding: 10px;
+}
+.HTML2{
+  background-color: #66CCFF  ;
+  border: 5px solid black;
+  padding: 10px
+  
+}
+.Lesson2{
+  background-color:#AD33FF;
+  border: 5px solid black;
+  width: 30%;
+}
+.DOM{
+  background-color: #66CCFF;
+  border: 3px solid black;
+}
+.DOMhtml{
+  background-color: #66CCFF;
+  border: 3px solid black;
+}
+.Boxes{
+  background-color: #66CCFF;
+  border: 3px solid black;
+}
+.Lesson3{
+  background-color: #FF0000;
+  border: 5px solid black;
+  width: 30%;
+}
+.CSS{
+  background-color:#66CCFF;
+  border: 5px solid black;
+}
+.Boxmodel{
+  background-color: #66CCFF;
+  border: 5px solid black;
+}
+
+
+
+
+
+
+
